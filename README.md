@@ -37,7 +37,7 @@ Step 1: Clone the repository
 
 Step 2: Install required dependencies  
 
-Step 3: Configure search terms, dates, and pipeline activity
+Step 3: Configure search terms, dates, and pipeline activity  
 → Edit `config.py` and modify the `TERMS` list with queries of interest.  
 Example:
 ```python
